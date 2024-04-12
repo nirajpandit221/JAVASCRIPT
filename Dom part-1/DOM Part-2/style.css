@@ -1,0 +1,11 @@
+div{
+    height: 300px;
+    width: 100px;
+    background-color: rgb(202, 64, 64);
+    color: aqua;
+    border: 2px solid white;
+    text-align: center;
+li{
+    text-align: left;
+}
+}
